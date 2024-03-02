@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=world&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/GithubProjects-red?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
