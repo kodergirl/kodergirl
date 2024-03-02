@@ -15,11 +15,6 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" width="100"/>
-</div>
-
-
 - 👋 Hi, I’m @kodergirl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
